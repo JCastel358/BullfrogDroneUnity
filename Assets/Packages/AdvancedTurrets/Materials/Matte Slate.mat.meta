@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6db277998b5d5ca4faf3411d7063649c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Materials/Matte Slate.mat
+  uploadId: 745375

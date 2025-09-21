@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e77b0d19c9dafbf4eb17908c1c35868c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/ShellCasings/Primative/Purple
+    Casing Emitter.prefab
+  uploadId: 745375

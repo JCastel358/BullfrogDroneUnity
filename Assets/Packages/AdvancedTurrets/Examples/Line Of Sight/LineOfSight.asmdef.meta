@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f30d8fde18f7247b3a456c1cb21651ce
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Line Of Sight/LineOfSight.asmdef
+  uploadId: 745375

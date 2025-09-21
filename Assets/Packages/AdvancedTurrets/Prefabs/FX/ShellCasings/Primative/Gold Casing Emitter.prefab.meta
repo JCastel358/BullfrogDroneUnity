@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3da4d13da824524a8ed8caa1a83f4e4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/ShellCasings/Primative/Gold
+    Casing Emitter.prefab
+  uploadId: 745375

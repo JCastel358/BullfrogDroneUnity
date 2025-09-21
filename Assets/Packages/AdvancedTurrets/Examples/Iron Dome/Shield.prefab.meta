@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3f6800cabcb87984d9e74486cabb4b20
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Iron Dome/Shield.prefab
+  uploadId: 745375

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b003d2170ecefd84db17e8468ba7bd8b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Aiming Modes/Aiming Modes.unity
+  uploadId: 745375

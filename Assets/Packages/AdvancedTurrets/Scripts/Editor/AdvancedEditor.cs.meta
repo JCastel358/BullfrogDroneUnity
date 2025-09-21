@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c69f1e466a35844bcb3374819e9e0eba
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Editor/AdvancedEditor.cs
+  uploadId: 745375

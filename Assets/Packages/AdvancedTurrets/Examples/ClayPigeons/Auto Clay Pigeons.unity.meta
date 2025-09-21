@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a1207692dac53c44a8ecf1df131af572
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/ClayPigeons/Auto Clay Pigeons.unity
+  uploadId: 745375

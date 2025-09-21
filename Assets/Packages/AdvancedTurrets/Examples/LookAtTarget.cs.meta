@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4145f7a17f9914ab1b73818225dc41be
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/LookAtTarget.cs
+  uploadId: 745375

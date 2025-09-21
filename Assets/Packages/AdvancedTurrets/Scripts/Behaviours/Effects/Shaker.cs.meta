@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a29e76c77bfa14941a407e0a2d59c779
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Behaviours/Effects/Shaker.cs
+  uploadId: 745375

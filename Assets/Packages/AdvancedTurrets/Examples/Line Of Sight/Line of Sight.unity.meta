@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f02136fdc72d44460b12ce273578e70a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Line Of Sight/Line of Sight.unity
+  uploadId: 745375

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 191bb00a960d14d2bab3c98592ff66ff
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Flak/Flak.unity
+  uploadId: 745375

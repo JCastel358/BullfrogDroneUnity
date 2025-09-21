@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26f16bdf2298701458cd5a227c85cb0d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Ammunitions/Projectiles/Primative/Yellow
+    Projectile.prefab
+  uploadId: 745375

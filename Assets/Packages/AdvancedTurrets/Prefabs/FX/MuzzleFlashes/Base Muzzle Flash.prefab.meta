@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb07f45452b2ec74583c372b46281007
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/MuzzleFlashes/Base Muzzle
+    Flash.prefab
+  uploadId: 745375

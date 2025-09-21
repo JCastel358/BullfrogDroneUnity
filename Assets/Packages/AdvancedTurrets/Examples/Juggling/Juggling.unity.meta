@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ed8cc40aa09144ac94d927829e2a6ca
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Juggling/Juggling.unity
+  uploadId: 745375

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2289e41ef0645c4581920af17a095af
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Timeouts/Timeouts.asmdef
+  uploadId: 745375

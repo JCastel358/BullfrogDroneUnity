@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 3adc6181d46ec374d8046470fd25fd8c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Visualization/Debugging/BaseGizmos.cs
+  uploadId: 745375

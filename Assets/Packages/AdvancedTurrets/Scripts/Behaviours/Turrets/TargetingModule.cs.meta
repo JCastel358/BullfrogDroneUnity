@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8582b3f657fdf324a8ff9a9e0416e958
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Behaviours/Turrets/TargetingModule.cs
+  uploadId: 745375

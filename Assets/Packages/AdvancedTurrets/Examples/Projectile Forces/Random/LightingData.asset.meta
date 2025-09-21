@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fea69078302f6243a596dff876f9a10
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Projectile Forces/Random/LightingData.asset
+  uploadId: 745375

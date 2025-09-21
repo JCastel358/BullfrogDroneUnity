@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8109052030992243149
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4668239389651523867}
+  - component: {fileID: 7711340614577241714}
+  - component: {fileID: 4500139121730207972}
+  - component: {fileID: 8368927287673671519}
+  - component: {fileID: 8772337884467631618}
+  m_Layer: 0
+  m_Name: Base Kinematic Turret
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4668239389651523867
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8109052030992243149}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7711340614577241714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8109052030992243149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8582b3f657fdf324a8ff9a9e0416e958, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Type: 0
+  IKinematicGameObject: {fileID: 0}
+  Rigidbody: {fileID: 0}
+  Component: {fileID: 0}
+  Position: {x: 0, y: 0, z: 0}
+  Velocity: {x: 0, y: 0, z: 0}
+  HasGravity: 0
+  Acceleration: {x: 0, y: 0, z: 0}
+  InactiveTargetsInvalid: 1
+--- !u!114 &4500139121730207972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8109052030992243149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e652fe8a89f214f97fae2e9d7d7bbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MuzzleConvergence: 1
+  TimeoutClock:
+    WaitTime: 5
+    StartTime:
+      _hasValue: 0
+      _value: 0
+  _lazyMuzzleLoader:
+    _componentAncestry: 2
+    _value: {fileID: 0}
+    _hasValue: 0
+  _lazyTargetingModule:
+    _componentAncestry: 0
+    _value: {fileID: 0}
+    _hasValue: 0
+  _lazyRigidbody:
+    _componentAncestry: 0
+    _value: {fileID: 0}
+    _hasValue: 0
+  Mortar: 0
+  AmmunitionPrefab: {fileID: 2567038346070316857, guid: 376c418240fe74556b591a0071d92ecc, type: 3}
+  LaunchVelocity: 150
+  Spread: 0
+  OverrideHasGravity:
+    _hasValue: 0
+    _value: 0
+  OverrideAcceleration:
+    _hasValue: 0
+    _value: {x: 0, y: 0, z: 0}
+  VelocityType: 0
+  CustomVelocity: {x: 0, y: 0, z: 0}
+  InterceptFailureBehaviour: 1
+  LastAimTrajectory:
+    Position: {x: 0, y: 0, z: 0}
+    Velocity: {x: 0, y: 0, z: 0}
+    HasGravity: 0
+    Gravity: {x: 0, y: 0, z: 0}
+    Acceleration: {x: 0, y: 0, z: 0}
+    Duration: 0
+    InstantiatedOrEnabled: 0
+    Transform: {fileID: 0}
+    TargetTrajectory:
+      rid: -2
+    LaunchVelocity: {x: 0, y: 0, z: 0}
+    TimeCreated: 0
+    CreatedInFixedTime: 0
+    CreatedTimeUntilFixedUpdate: 0
+    CreatedTimeSinceFixedUpdate: 0
+    TimeShift: 0
+  OnInterceptFailed:
+    m_PersistentCalls:
+      m_Calls: []
+  BeforeFired:
+    m_PersistentCalls:
+      m_Calls: []
+  AmmunitionFired:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 8368927287673671519}
+        m_TargetAssemblyTypeName: AdvancedTurrets.Behaviours.Collisions.BaseColliderGroup,
+          AdvancedTurrets
+        m_MethodName: IgnoreCollisions
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 8772337884467631618}
+        m_TargetAssemblyTypeName: AdvancedTurrets.Behaviours.Collisions.BaseColliderGroup,
+          AdvancedTurrets
+        m_MethodName: IgnoreCollisions
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  ShowGizmos: 0
+  KinematicTurretGizmos:
+    Enabled: 1
+    MainColor: {r: 1, g: 1, b: 1, a: 0.29411766}
+    ArcCount: 10
+    ArcLineCount: 10
+    EndType: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+--- !u!114 &8368927287673671519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8109052030992243149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0720bbd9f22747ba856dabf4e9cf6e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _lazyColliders:
+    _componentAncestry: 2
+    _value: []
+    _hasValue: 0
+--- !u!114 &8772337884467631618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8109052030992243149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3916bde95f1534120a86387086ae38c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

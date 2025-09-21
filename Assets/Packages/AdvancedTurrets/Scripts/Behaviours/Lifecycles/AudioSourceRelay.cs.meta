@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5962de8a3233c6f4c82e751dd7521fa1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Behaviours/Lifecycles/AudioSourceRelay.cs
+  uploadId: 745375

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12543bf3648bf1a4f848ce8882bcd3a6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Ammunitions/Beams/Primative/White
+    Beam.prefab
+  uploadId: 745375

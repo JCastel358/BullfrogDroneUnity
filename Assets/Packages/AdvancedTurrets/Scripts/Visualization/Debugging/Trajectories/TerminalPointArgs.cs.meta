@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 004da56324b7e1b4e9279752ce9bd13e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Visualization/Debugging/Trajectories/TerminalPointArgs.cs
+  uploadId: 745375

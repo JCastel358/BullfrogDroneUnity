@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69dc3e9a7c17d0d418d4bf4703ef3a16
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Ammunitions/Projectiles/Primative/White
+    Projectile.prefab
+  uploadId: 745375

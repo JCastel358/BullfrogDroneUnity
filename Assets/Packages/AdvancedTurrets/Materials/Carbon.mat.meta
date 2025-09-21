@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: badf61d22a34c0a4aa699f93c8dc04b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Materials/Carbon.mat
+  uploadId: 745375

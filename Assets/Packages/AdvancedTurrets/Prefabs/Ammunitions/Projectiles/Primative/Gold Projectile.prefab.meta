@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c1c81483e556024ab23d1dc1db17480
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Ammunitions/Projectiles/Primative/Gold
+    Projectile.prefab
+  uploadId: 745375

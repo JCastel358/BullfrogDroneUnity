@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e818daf416cf514498e6aea3e1571daf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/Trails/Primative/Red Trail.prefab
+  uploadId: 745375

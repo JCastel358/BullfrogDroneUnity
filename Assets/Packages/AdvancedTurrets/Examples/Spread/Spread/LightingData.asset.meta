@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81805134dc86b3d4c8fbd22eb35f6660
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Spread/Spread/LightingData.asset
+  uploadId: 745375

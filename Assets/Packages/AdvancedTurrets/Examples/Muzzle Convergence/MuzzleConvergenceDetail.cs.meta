@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 586fb29c0d7d56b4380f5c359c0cfa2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Muzzle Convergence/MuzzleConvergenceDetail.cs
+  uploadId: 745375

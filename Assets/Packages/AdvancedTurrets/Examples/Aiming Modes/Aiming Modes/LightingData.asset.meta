@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72bbfe7846505aa41829841996a36792
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Aiming Modes/Aiming Modes/LightingData.asset
+  uploadId: 745375

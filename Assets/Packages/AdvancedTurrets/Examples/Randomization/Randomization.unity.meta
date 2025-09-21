@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: df5874e03a0d94900a5556aa839b20f4
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Randomization/Randomization.unity
+  uploadId: 745375

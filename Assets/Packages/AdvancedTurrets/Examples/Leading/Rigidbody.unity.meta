@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2350f62aefe09d54f8727c6f54be19fb
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Leading/Rigidbody.unity
+  uploadId: 745375

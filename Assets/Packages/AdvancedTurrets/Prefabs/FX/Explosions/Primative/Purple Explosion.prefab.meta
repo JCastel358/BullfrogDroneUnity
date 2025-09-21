@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf0648819ef98c849ac44ead52e181b7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/Explosions/Primative/Purple
+    Explosion.prefab
+  uploadId: 745375

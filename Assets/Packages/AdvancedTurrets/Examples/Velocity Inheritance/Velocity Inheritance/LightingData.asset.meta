@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2d9f26e517f2074eb45ff3d10157800
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Velocity Inheritance/Velocity
+    Inheritance/LightingData.asset
+  uploadId: 745375

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30e44b54bc4463b499385b428c1e22b4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Turrets/BeamTurrets/Triple Conic
+    Beam Turret.prefab
+  uploadId: 745375

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 932782a50de12eb439b603ed3212de91
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Turrets/KinematicTurrets/Dual
+    Horizontal Conic Kinematic Turret.prefab
+  uploadId: 745375

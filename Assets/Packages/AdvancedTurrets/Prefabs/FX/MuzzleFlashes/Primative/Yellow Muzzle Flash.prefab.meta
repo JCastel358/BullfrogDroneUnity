@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 77d782d4806b4eb40b740b3968b8658b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/MuzzleFlashes/Primative/Yellow
+    Muzzle Flash.prefab
+  uploadId: 745375

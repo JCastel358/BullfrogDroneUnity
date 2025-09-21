@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 1056b2e3941867545a9d07c970c33ebd
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Visualization/Debugging/LineOfSightGizmos.cs
+  uploadId: 745375

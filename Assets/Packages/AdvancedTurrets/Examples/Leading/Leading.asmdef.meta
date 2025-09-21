@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 080b91137ae964c129cde008f85db7cb
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Leading/Leading.asmdef
+  uploadId: 745375

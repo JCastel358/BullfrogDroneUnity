@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9858b06a13bd75547b615145b07f1742
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Turrets/BeamTurrets/Gattling
+    Beam Turret.prefab
+  uploadId: 745375

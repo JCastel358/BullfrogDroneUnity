@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 965367646fbf48c41980393df409dde4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Behaviours/Lifecycles/TrailRendererStopRelay.cs
+  uploadId: 745375

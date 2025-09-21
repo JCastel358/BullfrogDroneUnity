@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f5042a8944005c49a78438a38118e4d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/MuzzleFlashes/Primative/White
+    Muzzle Flash.prefab
+  uploadId: 745375

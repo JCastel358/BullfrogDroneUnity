@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dd4d618a97a8a154cb534512b0c0268e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Geometrics/AdvancedGeometrics.cs
+  uploadId: 745375

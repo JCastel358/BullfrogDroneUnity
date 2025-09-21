@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c9ac1e9ac1ff814e89347fd885d1723
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/Explosions/Primative/Yellow
+    Explosion.prefab
+  uploadId: 745375

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 79a4be325d9fe470284c804dab5fcda1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Iron Dome/Iron Dome.unity
+  uploadId: 745375

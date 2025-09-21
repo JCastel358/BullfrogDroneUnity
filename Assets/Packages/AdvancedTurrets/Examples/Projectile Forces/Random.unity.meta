@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ede295d4c937f514cbc19f2fc0ec5403
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Projectile Forces/Random.unity
+  uploadId: 745375

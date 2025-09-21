@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 133744fecf4ba7a41bad751b741f87a6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Ammunitions/Projectiles/Primative/Red
+    Projectile.prefab
+  uploadId: 745375

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb05a370f21ed438da9bbe91c11e962e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Spread/Spread.asmdef
+  uploadId: 745375

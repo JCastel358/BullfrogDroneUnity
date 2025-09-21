@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e0905f228e783a40ba108c7c2863a29
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Turrets/Common/Quad Conic 2
+    Muzzle Loader.prefab
+  uploadId: 745375

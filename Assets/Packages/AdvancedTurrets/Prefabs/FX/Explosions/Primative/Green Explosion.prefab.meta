@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 792876f72c448be47908487a76d5c97e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/Explosions/Primative/Green
+    Explosion.prefab
+  uploadId: 745375

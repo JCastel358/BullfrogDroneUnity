@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e0e9c7231bf5745aabd60dedc475bba2
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Projectile Forces/ProjectileForces.asmdef
+  uploadId: 745375

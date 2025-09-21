@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2591abb45a7f8014a8e1a0f57ec90d6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Behaviours/Lifecycles/Spawners/BaseSpawner.cs
+  uploadId: 745375

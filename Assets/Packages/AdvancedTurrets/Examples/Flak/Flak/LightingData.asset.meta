@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7549c7ed908369a498c8bc8550bc0f14
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Flak/Flak/LightingData.asset
+  uploadId: 745375

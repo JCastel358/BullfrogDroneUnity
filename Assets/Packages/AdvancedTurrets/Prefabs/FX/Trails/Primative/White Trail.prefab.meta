@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 558423d5b3e99724caf88bdc7ebff6d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/Trails/Primative/White Trail.prefab
+  uploadId: 745375

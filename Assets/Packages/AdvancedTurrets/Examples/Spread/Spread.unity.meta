@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2146e63ebd69d4a80a478b39fc2c4ff6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Spread/Spread.unity
+  uploadId: 745375

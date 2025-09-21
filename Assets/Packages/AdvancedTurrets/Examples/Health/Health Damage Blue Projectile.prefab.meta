@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbe3bb28a2830dc4eacf903c63748721
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Health/Health Damage Blue Projectile.prefab
+  uploadId: 745375

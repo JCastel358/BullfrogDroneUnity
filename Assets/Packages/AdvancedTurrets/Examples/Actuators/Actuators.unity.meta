@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ab75dc21f2df0f4995c3cbf8945cefb
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Actuators/Actuators.unity
+  uploadId: 745375

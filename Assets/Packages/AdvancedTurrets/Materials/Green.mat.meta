@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3cc3b69ad804b40798790b6afac8c494
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Materials/Green.mat
+  uploadId: 745375

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7209353febbca6245b760cc92569f96e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Intercept Types/Intercept Types.unity
+  uploadId: 745375

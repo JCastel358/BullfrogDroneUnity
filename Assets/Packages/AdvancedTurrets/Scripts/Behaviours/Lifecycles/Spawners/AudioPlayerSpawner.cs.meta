@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d1b47ef3dab830e48821a51dd2045591
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Behaviours/Lifecycles/Spawners/AudioPlayerSpawner.cs
+  uploadId: 745375

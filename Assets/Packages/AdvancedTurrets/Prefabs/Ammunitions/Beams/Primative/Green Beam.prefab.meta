@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60452bbc68453ef478cb0f37e9695c73
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Ammunitions/Beams/Primative/Green
+    Beam.prefab
+  uploadId: 745375

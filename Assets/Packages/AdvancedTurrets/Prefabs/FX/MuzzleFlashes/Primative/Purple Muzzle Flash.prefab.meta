@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 512201c1b51bd0e45983bcd320521c12
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/MuzzleFlashes/Primative/Purple
+    Muzzle Flash.prefab
+  uploadId: 745375

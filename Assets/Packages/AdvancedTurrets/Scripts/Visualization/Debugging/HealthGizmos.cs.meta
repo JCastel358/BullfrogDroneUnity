@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 78881e385e0a4724e872e2e62307c14d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Visualization/Debugging/HealthGizmos.cs
+  uploadId: 745375

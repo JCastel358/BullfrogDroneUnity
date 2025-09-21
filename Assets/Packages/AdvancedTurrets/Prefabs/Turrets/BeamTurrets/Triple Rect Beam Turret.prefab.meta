@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52430c4deeb232748a5f834fe39b8b87
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Turrets/BeamTurrets/Triple Rect
+    Beam Turret.prefab
+  uploadId: 745375

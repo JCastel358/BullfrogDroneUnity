@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 08f07bebf62a30748afe0b6c2d1e569e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Visualization/Debugging/Trajectories/RemainingTrajectoryFixedPointsGizmos.cs
+  uploadId: 745375

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eceab89ce0948ce45895ce168fa71ccc
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Beam Turrets/BeamTurrets.asmdef
+  uploadId: 745375

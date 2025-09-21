@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f8aa1ea2c5d638146915c27637355ca3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/ClayPigeons/ClayPigeon.cs
+  uploadId: 745375

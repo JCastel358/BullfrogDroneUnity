@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 376c418240fe74556b591a0071d92ecc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Ammunitions/Projectiles/Base
+    Projectile.prefab
+  uploadId: 745375

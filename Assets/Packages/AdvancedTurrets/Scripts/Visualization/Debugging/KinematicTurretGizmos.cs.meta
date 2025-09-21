@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d36e4f4a3048c434eae56230aea4c964
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Visualization/Debugging/KinematicTurretGizmos.cs
+  uploadId: 745375

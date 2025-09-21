@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec02e8559f19077438185eb075ce6513
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Ammunitions/Beams/Primative/Gold
+    Beam.prefab
+  uploadId: 745375

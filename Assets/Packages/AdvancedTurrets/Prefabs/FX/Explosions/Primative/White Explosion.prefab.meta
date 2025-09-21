@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ad4aa6650fe59545b75b558afc25e07
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/Explosions/Primative/White
+    Explosion.prefab
+  uploadId: 745375

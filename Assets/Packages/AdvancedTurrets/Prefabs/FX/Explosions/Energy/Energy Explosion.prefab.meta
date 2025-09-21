@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ecfc915e8f64e4419cb5181aaf10d4b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/Explosions/Energy/Energy
+    Explosion.prefab
+  uploadId: 745375

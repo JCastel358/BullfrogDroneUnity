@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4ee390c00a451c4ca1c693ed32c6a9c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Beam Turrets/Beam Turrets/LightingData.asset
+  uploadId: 745375

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 935188d3de5d18b4a9d78062581b5e75
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Iron Dome/Iron Dome Defender
+    Projectile.prefab
+  uploadId: 745375

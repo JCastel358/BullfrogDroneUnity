@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3b994d68aad93444cb5edbea96178b30
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Fixed Update/FixedUpdate.asmdef
+  uploadId: 745375

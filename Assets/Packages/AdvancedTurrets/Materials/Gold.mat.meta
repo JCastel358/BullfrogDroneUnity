@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c0fe0fb5658bca4fa8c6315ee82ed05
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Materials/Gold.mat
+  uploadId: 745375

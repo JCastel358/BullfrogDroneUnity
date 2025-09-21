@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d0fbacfd879edfa40b8c832348f1c9bd
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Mathematics/DeltaRotation.cs
+  uploadId: 745375

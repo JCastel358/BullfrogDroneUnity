@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1c79a4c48edc64a23a663e7334bb03b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Fire Interval/FireIntervalDetail.cs
+  uploadId: 745375

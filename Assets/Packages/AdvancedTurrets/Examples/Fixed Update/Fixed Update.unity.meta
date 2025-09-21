@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 443bb969820b42746929d4e1a9647a03
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Fixed Update/Fixed Update.unity
+  uploadId: 745375

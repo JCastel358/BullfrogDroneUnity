@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a7c9f6f761d04c44a353dda4308d43a
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Framerate/Framerate.asmdef
+  uploadId: 745375

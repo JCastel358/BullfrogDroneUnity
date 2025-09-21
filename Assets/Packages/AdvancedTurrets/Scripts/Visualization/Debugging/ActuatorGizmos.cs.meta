@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 833ebda209a6a634bae1c63be9d26dff
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Visualization/Debugging/ActuatorGizmos.cs
+  uploadId: 745375

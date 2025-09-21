@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9b9f02bfe6be744b9275a816514d3c7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/Shockwaves/Primative/Blue
+    Shockwave.prefab
+  uploadId: 745375

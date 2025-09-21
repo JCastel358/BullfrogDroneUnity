@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ddb4eb4bd50d54fe88b4dee172551d0a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Iron Dome/InstancedBehaviour.cs
+  uploadId: 745375

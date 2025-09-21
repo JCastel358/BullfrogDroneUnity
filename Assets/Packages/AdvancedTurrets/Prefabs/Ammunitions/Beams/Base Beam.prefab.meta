@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cec3af64875ba27429d2ec4e0539dc3b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Ammunitions/Beams/Base Beam.prefab
+  uploadId: 745375

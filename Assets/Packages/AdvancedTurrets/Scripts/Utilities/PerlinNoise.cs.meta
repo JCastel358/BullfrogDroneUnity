@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: e6ed2cbdcabb76749bb2ed9edc4dbee9
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Utilities/PerlinNoise.cs
+  uploadId: 745375

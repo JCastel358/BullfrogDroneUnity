@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec8a2483b065e09468b10fb7bf90700e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Ammunitions/Beams/Primative/Red
+    Beam.prefab
+  uploadId: 745375

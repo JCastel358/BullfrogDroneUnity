@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7db13bffc3ab0ec4fbef6a20baeef9f7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/ClayPigeons/Clay Pigeon.prefab
+  uploadId: 745375

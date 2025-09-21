@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5639fd01ca4be874f82831a6b91e0c80
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Materials/Yellow.mat
+  uploadId: 745375

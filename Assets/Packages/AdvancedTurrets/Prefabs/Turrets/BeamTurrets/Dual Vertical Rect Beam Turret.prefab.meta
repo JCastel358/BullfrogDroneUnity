@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79662bc27b2f00b4e84f356b80bdd090
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Turrets/BeamTurrets/Dual Vertical
+    Rect Beam Turret.prefab
+  uploadId: 745375

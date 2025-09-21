@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f763b93ab7c7dd4eb76a3102337fca5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Gunship/Gunship.unity
+  uploadId: 745375

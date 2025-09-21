@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 845ce17b050749948be04104adef2ea5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Ammunitions/Projectiles/Primative/Green
+    Projectile.prefab
+  uploadId: 745375

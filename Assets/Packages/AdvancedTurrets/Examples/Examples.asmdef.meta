@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1614f74dd83496c4588f106e1c33b0ff
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Examples.asmdef
+  uploadId: 745375

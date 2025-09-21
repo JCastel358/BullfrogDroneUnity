@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85f38ad1d6253457cb686c65a52f0202
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Velocity Inheritance/Velocity
+    Inheritance.unity
+  uploadId: 745375

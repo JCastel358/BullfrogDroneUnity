@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 297232d0882bf2b4884292693326dd28
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Visualization/Debugging/Trajectories/TrajectoryGizmos.cs
+  uploadId: 745375

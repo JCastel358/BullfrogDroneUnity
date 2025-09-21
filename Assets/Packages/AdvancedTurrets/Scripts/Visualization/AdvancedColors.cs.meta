@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f33cfd2aa978b144a81538e2493258f5
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Visualization/AdvancedColors.cs
+  uploadId: 745375

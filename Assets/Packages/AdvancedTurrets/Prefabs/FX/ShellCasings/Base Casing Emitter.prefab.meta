@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f4d5f98c3216cc042b1eda4ad6831d38
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/ShellCasings/Base Casing
+    Emitter.prefab
+  uploadId: 745375

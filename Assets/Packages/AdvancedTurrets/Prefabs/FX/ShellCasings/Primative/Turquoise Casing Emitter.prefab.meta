@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c56e3a853d49bf3498380389e819a90e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/ShellCasings/Primative/Turquoise
+    Casing Emitter.prefab
+  uploadId: 745375

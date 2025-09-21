@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 91dcf33fc32899e40a3ddbbb4e2ff97a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/Trails/Primative/Blue Trail.prefab
+  uploadId: 745375

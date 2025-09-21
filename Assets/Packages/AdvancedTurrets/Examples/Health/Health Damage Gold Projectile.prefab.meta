@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4af5380a4afbead4983895f8e8b40ab7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Health/Health Damage Gold Projectile.prefab
+  uploadId: 745375

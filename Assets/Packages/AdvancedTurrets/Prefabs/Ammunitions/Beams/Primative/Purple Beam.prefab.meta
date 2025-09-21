@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67f1d4a3b5212894f873c28615679e5a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/Ammunitions/Beams/Primative/Purple
+    Beam.prefab
+  uploadId: 745375

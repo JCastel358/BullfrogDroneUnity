@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7540ee1dcb2d1b1479a81f770ad22bac
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/QuickStart.md
+  uploadId: 745375

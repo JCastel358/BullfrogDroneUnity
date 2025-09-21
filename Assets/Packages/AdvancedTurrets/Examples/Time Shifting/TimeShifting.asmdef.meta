@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e504c92827d470842b82173c07ea2b2a
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Time Shifting/TimeShifting.asmdef
+  uploadId: 745375

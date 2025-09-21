@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0082be660d115824ea14a7dcbdd4b830
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Prefabs/FX/Trails/Primative/Yellow Trail.prefab
+  uploadId: 745375

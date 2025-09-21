@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51a098e8cf2d943d7babc3cc316290cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Flak/Flak Projectile.prefab
+  uploadId: 745375

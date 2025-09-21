@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 48e7947840366a24c90225d81b8599b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 313453
+  packageName: Advanced Turrets
+  packageVersion: 1.0.0
+  assetPath: Assets/Packages/AdvancedTurrets/Examples/Fixed Update/TimeAdjustableKinematicTurret.cs
+  uploadId: 745375
