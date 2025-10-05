@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: f1722964f3976b5438f448c227c7108a
-AssetOrigin:
-  serializedVersion: 1
-  productId: 313453
-  packageName: Advanced Turrets
-  packageVersion: 1.0.0
-  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Behaviours/Actuators/ActuationState.cs
-  uploadId: 745375

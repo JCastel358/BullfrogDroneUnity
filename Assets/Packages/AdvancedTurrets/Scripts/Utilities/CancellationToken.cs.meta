@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 23da5e46eb38f6441ab10c2761d49096
-AssetOrigin:
-  serializedVersion: 1
-  productId: 313453
-  packageName: Advanced Turrets
-  packageVersion: 1.0.0
-  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Utilities/CancellationToken.cs
-  uploadId: 745375

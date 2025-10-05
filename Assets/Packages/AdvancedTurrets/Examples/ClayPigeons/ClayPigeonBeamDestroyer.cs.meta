@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: f2b9394e508d6d345865b2a3389453c9
-AssetOrigin:
-  serializedVersion: 1
-  productId: 313453
-  packageName: Advanced Turrets
-  packageVersion: 1.0.0
-  assetPath: Assets/Packages/AdvancedTurrets/Examples/ClayPigeons/ClayPigeonBeamDestroyer.cs
-  uploadId: 745375

@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 55e42c18184d4f04f92d5478fc2b0458
-AssetOrigin:
-  serializedVersion: 1
-  productId: 313453
-  packageName: Advanced Turrets
-  packageVersion: 1.0.0
-  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Behaviours/Effects/TrackingService.cs
-  uploadId: 745375

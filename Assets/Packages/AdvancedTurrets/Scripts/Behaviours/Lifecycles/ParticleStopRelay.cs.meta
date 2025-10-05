@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 59d5ec9ba21d58945a59f5fb63a1c240
-AssetOrigin:
-  serializedVersion: 1
-  productId: 313453
-  packageName: Advanced Turrets
-  packageVersion: 1.0.0
-  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Behaviours/Lifecycles/ParticleStopRelay.cs
-  uploadId: 745375

@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 06c6b37f4081b0d43be33e2ba5e93f66
-AssetOrigin:
-  serializedVersion: 1
-  productId: 313453
-  packageName: Advanced Turrets
-  packageVersion: 1.0.0
-  assetPath: Assets/Packages/AdvancedTurrets/Examples/ClayPigeons/ClayPigeonLauncher.cs
-  uploadId: 745375

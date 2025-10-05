@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: d1b413a1d87a68b468e4e169a09d99db
-AssetOrigin:
-  serializedVersion: 1
-  productId: 313453
-  packageName: Advanced Turrets
-  packageVersion: 1.0.0
-  assetPath: Assets/Packages/AdvancedTurrets/Scripts/Mathematics/AdvancedMathematics.cs
-  uploadId: 745375
